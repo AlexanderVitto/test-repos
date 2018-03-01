@@ -1,0 +1,13 @@
+{
+  "name": "private-module-lelejunior",
+  "version": "1.2.0",
+  "description": "This is test module. Please ignore!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js",
+    "prepublish": "npm test"
+  },
+  "keywords": [],
+  "author": "lelejunior",
+  "license": "MIT"
+}
